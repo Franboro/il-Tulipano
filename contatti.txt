@@ -60,7 +60,7 @@
 								
 								<td colspan="9" align="center" valign="middle"> 
 
-									<p> mail: ristorante@iltulipano.it </p>
+									<p> email: ristoranteiltulipano@gmail.com </p>
 									<p> <a href="iltulipanoristorante.it" title="Pagina Facebook"><b>Facebook</b></a></p>
 									<p> <a href="iltulipanoristorante.it" title="Instagram"><b>Instagram</b></a></p>
 									<p> <b> Cell 3475985631 </b> </p>
@@ -69,13 +69,7 @@
 								
 
 							</tr>
-							<tr>								
-								
-								<td colspan="9" align="center" valign="middle"> <img src="images/formaggihome.png"> 
-								</td>
-								
-
-							</tr>
+							
 									
 									<tr>
 										<td colspan="9">
@@ -93,7 +87,7 @@
 									<tr>	
 										<td colspan="2" align="left" valign="bottom">
                                                                                 </td>
-										<td colspan="5" align="center" valign="middle">  <i><b> <br>Indirizzo: C/da dei Tulipani n°10, Castelbuono (PA) </b> </i>
+										<td colspan="5" align="center" valign="middle">  <i><b> <br>Indirizzo: C/da dei Tulipani n 10, Castelbuono (PA) </b> </i>
 										</td>
 										<td colspan="2" align="right" valign="bottom"> <i> <b> Copyright © </i> </b> 
 										</td>

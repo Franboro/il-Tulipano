@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="it">
 	<head> 
-		<title> Foto </title>
+		<title> Menù </title>
 	</head>
 		
 		<body background="images/metal2.png">
@@ -55,45 +55,122 @@
 
 
 							
-							<h2>ANTIPASTI </h2>
+							<tr>								
+								<td colspan="9" align="left" valign="middle"> <h2><i> Antipasti </i></h2>
+								</td>
+							</tr>
 
 							<tr>								
-								
-								<td colspan="9" align="left" valign="middle"> PIATTO 1
+								<td colspan="4.5" align="left" valign="middle"> Tagliere di salumi e formaggi madoniti
 								</td>
-								<td colspan="9" align="right" valign="middle"> <img src="images/formaggihome.png"> 
+								<td colspan="4.5" align="right" valign="middle"> <img src="images/antipasti.png"> 
+								</td>
+
+							<tr>								
+								<td colspan="9" align="left" valign="middle"> <h2><i> Primi piatti </i></h2>
+								</td>
+							</tr>
+
+							<tr>								
+								<td colspan="4.5" align="left" valign="middle"> Tagliatelle funghi e salsiccia
+								</td>
+								<td colspan="4.5" align="right" valign="middle"> <img src="images/tagliatelle.png"> 
+								</td>
+								
+
+							</tr>
+							
+							<tr>								
+								<td colspan="4.5" align="left" valign="middle"> Risotto con asparagi e zafferano
+								</td>
+								<td colspan="4.5" align="right" valign="middle"> <img src="images/risotto.png"> 
+								</td>
+								
+
+							</tr>
+
+							<tr>								
+								<td colspan="9" align="left" valign="middle"> <h2><i> Secondi piatti </i></h2>
+								</td>
+							</tr>
+
+							<tr>								
+								<td colspan="4.5" align="left" valign="middle"> Grigliata mista
+								</td>
+								<td colspan="4.5" align="right" valign="middle"> <img src="images/grigliata.png"> 
+								</td>
+								
+
+							</tr>
+
+							<tr>								
+								<td colspan="9" align="center" valign="middle"> <h2><i> MENÙ DEL GIORNO </i></h2> <h3><i>(I piatti di giornata, a scelta dello Chef)</i></h3>
+								</td>
+							</tr>
+
+							<tr>								
+								<td colspan="9" align="left" valign="middle"> <h2><i> Dolci </i></h2>
+								</td>
+							</tr>
+
+							<tr>								
+								<td colspan="4.5" align="left" valign="middle"> Sfoglio delle Madonie
+								</td>
+								<td colspan="4.5" align="right" valign="middle"> <img src="images/sfoglio.png"> 
+								</td>
+								
+
+							</tr>
+
+							<tr>								
+								<td colspan="4.5" align="left" valign="middle"> Cannolo siciliano
+								</td>
+								<td colspan="4.5" align="right" valign="middle"> <img src="images/cannolo.png"> 
+								</td>
+								
+
+							</tr>
+
+							<tr>								
+								<td colspan="4.5" align="left" valign="middle"> Sorbetto al limone
+								</td>
+								<td colspan="4.5" align="right" valign="middle"> <img src="images/sorbetto.png"> 
+								</td>
+								
+
+							</tr>
+
+							<tr>								
+								<td colspan="9" align="left" valign="middle"> <h2><i> Bevande </i></h2>
+								</td>
+
+							</tr>
+
+							<tr>								
+								<td colspan="9" align="left" valign="middle"> Acqua
 								</td>
 								
 
 							</tr>
 							<tr>								
-								
-								<td colspan="9" align="center" valign="middle"> <img src="images/formaggihome.png"> 
+								<td colspan="9" align="left" valign="middle"> Vino della casa
 								</td>
 								
 
 							</tr>
 							<tr>								
-								
-								<td colspan="9" align="center" valign="middle"> <img src="images/formaggihome.png"> 
+								<td colspan="9" align="left" valign="middle"> Amaro
 								</td>
 								
 
 							</tr>
 							<tr>								
-								
-								<td colspan="9" align="center" valign="middle"> <img src="images/formaggihome.png"> 
+								<td colspan="9" align="left" valign="middle"> Caffè
 								</td>
 								
 
 							</tr>
-							<tr>								
-								
-								<td colspan="9" align="center" valign="middle"> <img src="images/formaggihome.png"> 
-								</td>
-								
 
-							</tr>
 									
 									<tr>
 										<td colspan="9">

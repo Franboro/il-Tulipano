@@ -63,7 +63,7 @@ La struttura offre piatti preparati con prodotti locali dai produttori delle zon
 
 							<tr>								
 								
-								<td colspan="9" align="center" valign="middle"> <img src="images/formaggihome.png"> 
+								<td colspan="9" align="center" valign="middle"> <img src="images/castelbuono.png"> <img src="images/esterno.png">
 								</td>
 								
 
