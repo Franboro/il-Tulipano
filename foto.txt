@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="it">
+	<head> 
+		<title> Foto </title>
+	</head>
+		
+		<body background="images/metal2.png">
+			<div align="center">
+			<a name="top">
+			<table width="90%" border="0" background="images/metal.png">
+				
+					
+					<tr>
+						<td width="10%"> </td>
+						<td width="10%"> </td>
+						<td width="10%"> </td>
+						<td width="10%"> </td>
+						<td width="10%"> </td>						
+						<td width="10%"> </td>
+						<td width="10%"> </td>
+						<td width="10%"> </td>
+						<td width="10%"> </td>
+					</tr>
+						
+
+						<tr>
+							<td colspan="9" align="right" valign="middle">
+								<a href="index.html" title="Vai alla Home"><b>Home</b></a>
+								<a href="locale.html" title="Vai al link del locale"><b>Il locale</b></a>
+								<a href="storia.html" title="Vai alla nostra storia"><b>La nostra storia</b></a>
+								<a href="prodotti.html" title="Vai ai prodotti"><b>I nostri prodotti</b></a>
+								<a href="foto.html" title="Vai alle foto"><b>Foto</b></a>
+								<a href="menu.html" title="Vai al menù"><b>Menù</b></a>
+								<a href="contatti.html" title="Vai ai contatti"><b>Contatti</b></a>
+							</td>
+								
+						</tr>	
+							
+
+
+							<tr>
+										<td colspan="9">
+											
+										</td>		
+									</tr>	
+							
+							<tr> <td colspan="9" align="center" valign="middle">  <br> <br> <br> <br> <br> <br> <h1> <i> Le foto del locale </i> </h1></td>
+							</tr>
+							<tr>
+										<td colspan="9">
+											<hr width="100%">
+										</td>		
+									</tr>	
+
+
+
+
+
+							<tr>								
+								
+								<td colspan="9" align="center" valign="middle"> <img src="images/formaggihome.png"> 
+								</td>
+								
+
+							</tr>
+							<tr>								
+								
+								<td colspan="9" align="center" valign="middle"> <img src="images/formaggihome.png"> 
+								</td>
+								
+
+							</tr>
+							<tr>								
+								
+								<td colspan="9" align="center" valign="middle"> <img src="images/formaggihome.png"> 
+								</td>
+								
+
+							</tr>
+							<tr>								
+								
+								<td colspan="9" align="center" valign="middle"> <img src="images/formaggihome.png"> 
+								</td>
+								
+
+							</tr>
+							<tr>								
+								
+								<td colspan="9" align="center" valign="middle"> <img src="images/formaggihome.png"> 
+								</td>
+								
+
+							</tr>
+									
+									<tr>
+										<td colspan="9">
+											<hr width="100%">
+										</td>		
+									</tr>		
+
+																						
+
+
+
+
+
+
+									<tr>	
+										<td colspan="2" align="left" valign="bottom">
+                                                                                </td>
+										<td colspan="5" align="center" valign="middle">  <i><b> <br>Indirizzo: C/da dei Tulipani n°10, Castelbuono (PA) </b> </i>
+										</td>
+										<td colspan="2" align="right" valign="bottom"> <i> <b> Copyright © </i> </b> 
+										</td>
+									</tr>
+				
+				
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</table>
+		
+		</div>	
+
+		<div align="right">
+		<li id="toTopLink" class="last extraButton"> 
+		<a href="#top" title="Vai all'inizio della pagina"> 
+		<img src="http://img.forumfree.net/index_file/up_m.png">
+		</li>
+		</div> 	
+
+
+		</body>
+
+
+
+
+</html>		
+
+
+
